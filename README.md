@@ -3,7 +3,7 @@
 - I'm a **Full-Stack web Developer** passionate about **building scalable web applications and open-source contributions**.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abbas-ibrahim-7650a1343">
+  <a href="https://www.linkedin.com/in/abbas-ibrahim-7650a1343" style="margin-right:5px">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:abbasebrahiem123@gmail.com">
